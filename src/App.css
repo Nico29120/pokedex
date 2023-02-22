@@ -1,0 +1,33 @@
+.hover{
+    outline: 5px dashed rgb(50, 122, 255) ;
+}
+.badge{
+    border-radius: 20px;
+}
+.eau{
+    background-color: rgb(50, 122, 255) ;
+}
+.electrik{
+    background-color: rgb(204, 204, 0);
+}
+.fée{
+    background-color: rgb(192, 71, 117);
+}
+.feu{
+    background-color: red;
+}
+.insecte{
+    background-color: rgb(102, 160, 75);
+}
+.normal{
+    background-color: rgb(102, 102, 102);
+}
+.plante{
+    background-color: green;
+}
+.poison{
+    background-color: rgb(90, 1, 90);
+}
+.vol{
+    background-color: rgb(93, 95, 80);
+}
